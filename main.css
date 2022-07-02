@@ -1,0 +1,30 @@
+h1 {
+    color:rgb(177, 117, 245); font-size: 60px;
+}
+.one {
+    color:chartreuse; font-size: 45px;
+}
+.p1 {
+    color: chartreuse; font-size: 35px;
+}
+.h61 {
+    color: rgb(209, 0, 0); font-size: 30px;
+}
+h6 {
+    color: darksalmon; font-size: 30px;
+}
+.two {
+    color: rgb(190, 92, 22); font-size: 45px;
+}
+.p2 {
+    color: rgb(190, 92, 22); font-size: 35px;
+}
+span {
+    color: aqua; font-size: 20px;
+}
+ol {
+    font-size: 30px; color: rgb(209, 0, 0);
+}
+ul {
+    color: darksalmon; font-size: 30px;
+}
